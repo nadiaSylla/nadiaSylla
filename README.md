@@ -1,5 +1,5 @@
 ### Hi there 👋
-I'm #Nadia# , an # engineering student # specializing in data science (Machine learning, AI, Statistics, data analysis and visualization). I'm passionate about harnessing the power of data to uncover insights and drive informed decisions. My journey is all about continuous learning and sharing my current work for feedbacks and suggestions.
+I'm ## Nadia ## , an # engineering student # specializing in data science (Machine learning, AI, Statistics, data analysis and visualization). I'm passionate about harnessing the power of data to uncover insights and drive informed decisions. My journey is all about continuous learning and sharing my current work for feedbacks and suggestions.
 Besides, I'm interested in #photography#, #travelling#  and creating #video contents#.
 
 
