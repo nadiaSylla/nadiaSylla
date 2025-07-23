@@ -1,5 +1,5 @@
 ### Hi there 👋
-I'm *Nadia*, an engineering student looking forward to specialize in data science (Machine learning, Stochastic Modeling, Statistics, Optimization Programming). I'm passionate about harnessing the power of data through statistical modeling and programming to uncover insights, optimize processes and drive informed decisions. My journey is all about continuous learning and sharing my current work for feedbacks and suggestions.
+I'm *Nadia*, an engineering student looking forward to specializing in Data Science and Finance Engineering (Machine learning, Stochastic Modeling, Simulation, Optimization Programming). I'm passionate about harnessing the power of data through statistical modeling and programming to uncover insights, optimize processes and drive informed decisions. My journey is all about continuous learning and sharing my current work for feedback and suggestions.
 
 Besides, I'm interested in photography, and creating video contents.
 
